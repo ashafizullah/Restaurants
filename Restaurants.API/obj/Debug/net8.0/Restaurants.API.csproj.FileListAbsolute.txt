@@ -137,3 +137,5 @@
 /Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/obj/Debug/net8.0/Restaurants.API.csproj.AssemblyReference.cache
 /Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/obj/Debug/net8.0/Restaurants.API.sourcelink.json
 /Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/obj/Debug/net8.0/Restaura.7AF479EB.Up2Date
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
