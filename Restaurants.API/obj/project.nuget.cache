@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "t1M73XFra5J3aAUM0v4ixTMQzbeJLQoQ2PJ3OQZe4og+X+jlbg6Pc1qPpJUY7i+U6APj2sK9MGWlfMHYV7z7VQ==",
+  "dgSpecHash": "iIalR0OYCl8aNAOZ48gCrZEwpE6JSaj7aXa6CCOJF1xwyq8ebVFT2/cOCAp9NDwZMJxgpR7bFtRD/hqTic8Jxw==",
   "success": true,
   "projectFilePath": "/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/Restaurants.API.csproj",
   "expectedPackageFiles": [
+    "/Users/adamsuchihafizullah/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/adamsuchihafizullah/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/adamsuchihafizullah/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
+    "/Users/adamsuchihafizullah/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/adamsuchihafizullah/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/adamsuchihafizullah/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "/Users/adamsuchihafizullah/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/adamsuchihafizullah/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "/Users/adamsuchihafizullah/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
