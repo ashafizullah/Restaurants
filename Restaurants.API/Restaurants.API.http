@@ -22,3 +22,22 @@ Content-Type: application/json
 "Street": "456 Gourmet Avenue",
 "PostalCode": "54321"
 }
+
+###
+DELETE {{Restaurants.API_HostAddress}}/api/restaurants/3
+
+###
+PATCH {{Restaurants.API_HostAddress}}/api/restaurants/2
+Content-Type: application/json
+
+{
+"Name": "Spicy Deliadsasghts",
+"Description": "Indian",
+"Category": "Indian",
+"HasDelivery": true,
+"ContactEmail": "info@gourmetdelights.com",
+"ContactNumber": "555-123-4567",
+"City": "Metropolis",
+"Street": "456 Gourmet Avenue",
+"PostalCode": "54321"
+}
