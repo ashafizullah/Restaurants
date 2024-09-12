@@ -2,7 +2,7 @@ using Restaurants.Application.Extensions;
 using Restaurants.Infrastructure.Extensions;
 using Restaurants.Infrastructure.Seeders;
 using Serilog;
-using Serilog.Events;
+using Serilog.Events;using Serilog.Formatting.Compact;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,9 +15,7 @@ builder.Services.AddInfrasctructure(builder.Configuration);
 builder.Host.UseSerilog((context, configuration) =>
 {
     configuration
-        .MinimumLevel.Override("Microsoft", LogEventLevel.Warning)
-        .MinimumLevel.Override("Microsoft.EntityFramework", LogEventLevel.Warning)
-        .WriteTo.Console(outputTemplate: "[{Timestamp:dd-MM HH:mm:ss} {Level:u3}] |{SourceContext}| {NewLine} {Message:lj}{NewLine}{Exception}");
+        .ReadFrom.Configuration(context.Configuration);
 });
     
 

@@ -146,3 +146,12 @@
 /Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/obj/Debug/net8.0/Restaurants.API.MvcApplicationPartsAssemblyInfo.cs
 /Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/MediatR.dll
 /Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.AspNetCore.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.Extensions.Hosting.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.Extensions.Logging.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.Formatting.Compact.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.Settings.Configuration.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.Sinks.Console.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.Sinks.File.dll
