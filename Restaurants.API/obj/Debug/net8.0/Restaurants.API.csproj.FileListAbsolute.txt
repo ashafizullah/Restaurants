@@ -155,3 +155,7 @@
 /Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.Sinks.Console.dll
 /Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.Sinks.Debug.dll
 /Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Serilog.Sinks.File.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/adamsuchihafizullah/Projects/Restaurants/Restaurants.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
