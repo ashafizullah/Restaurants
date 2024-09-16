@@ -3,7 +3,6 @@ using Restaurants.Application.Extensions;
 using Restaurants.Infrastructure.Extensions;
 using Restaurants.Infrastructure.Seeders;
 using Serilog;
-using Serilog.Events;using Serilog.Formatting.Compact;
 
 var builder = WebApplication.CreateBuilder(args);
 

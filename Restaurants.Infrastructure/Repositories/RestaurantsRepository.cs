@@ -5,7 +5,7 @@ using Restaurants.Infrastructure.Persistence;
 
 namespace Restaurants.Infrastructure.Repositories;
 
-public class RestaurantRepository(RestaurantsDbContext dbContext): IRestaurantsRepository
+public class RestaurantsRepository(RestaurantsDbContext dbContext): IRestaurantsRepository
 {
     public async Task<IEnumerable<Restaurant>> GetAllAsync()
     {
